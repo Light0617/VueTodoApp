@@ -1,4 +1,4 @@
-# To-do
+# Todo App
 
 ## Project setup
 ```
@@ -13,6 +13,11 @@ yarn run serve
 ### Compiles and minifies for production
 ```
 yarn run build
+```
+### install sass
+```
+npm install sass-loader --save-dev
+npm install node-sass --save
 ```
 
 ### Lints and fixes files
